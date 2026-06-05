@@ -7,20 +7,18 @@ I'm Andrew, I'm 19 y.o. and I'm an IT student. I like automating things, build d
 
 ---
 
-### Languages
-Mainly I use these languages:
-
+## Languages
+**Mainly I use these languages:**
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=py,go" />
 </a>
 
-but I also know and sometimes use:
-
+**but I also know and sometimes use:**
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,html,nodejs,react,vue,svelte" />
 </a>
 
-### Tools
+## Tools
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=fastapi,flask,selenium,bash,git,sqlite,discord,windows,linux" />
