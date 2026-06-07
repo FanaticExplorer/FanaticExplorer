@@ -5,21 +5,7 @@
 
 I'm Andrew, I'm 19 y.o. and I'm an IT student. I like automating things, build different tools which fix problems, and sometimes work on [freelance](https://freelancehunt.com/freelancer/FanaticExplorer.html). Feel free to check my work or [contact me](https://portfolio.fanaticexplorer.dev/contact)! •ᴗ•
 
----
-
-## Languages
-**Mainly I use these languages:**
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,go" />
-</a>
-
-**but I also know and sometimes use:**
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,nodejs,react,vue,svelte" />
-</a>
-
-## Tools
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,selenium,bash,git,sqlite,discord,windows,linux" />
-</a>
+## My stack
+| Languages | Frontend Libraries I've used | Tools I'm familiar with |
+|--|--|--|
+| <table><tr><td align="center"><img src="https://skillicons.dev/icons?i=py" /><br>Confident<br>(Middle)</td><td align="center"><img src="https://skillicons.dev/icons?i=go" /><br>Learning<br>(Junior)</td></tr></table> | <p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,svelte,nodejs,react,vue&perline=4" /></p> | <p align="center"><img src="https://skillicons.dev/icons?i=fastapi,flask,selenium,bash,git,sqlite&perline=3" /></p> |
